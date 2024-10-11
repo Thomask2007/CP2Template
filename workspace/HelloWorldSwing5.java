@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;  
 
 
-public class HelloWorldSwing {
+public class HelloWorldSwing5 {
     /**
      * Create the GUI and show it.  For thread safety,
      * this method should be invoked from the
